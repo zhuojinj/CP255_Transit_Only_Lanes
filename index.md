@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CP255_Transit_Only_Lanes
 
 You can use the [editor on GitHub](https://github.com/zhuojinj/CP255_Transit_Only_Lanes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
