@@ -4,3 +4,5 @@ plugins:
 
 title: Transit Only Lanes in San Francisco
 description: [A short description of your site's purpose]
+
+theme: jekyll-theme-time-machine
